@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Nehal's Blog
 
-You can use the [editor on GitHub](https://github.com/nehalgajraj/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here, i write about details i find interesting around me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Books
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This contail details of books i have read over the years and few paragraphs i found interesting in them
 
 ```markdown
 Syntax highlighted code block
